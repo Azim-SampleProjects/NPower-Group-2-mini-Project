@@ -27,12 +27,11 @@ The cleaning notebook will process the original dataset and create the cleaned C
 
 The project contains the following main files:
 
-Final-Cleaning.ipynb
-Cleans the original dataset and creates the cleaned CSV file.
-Final-Analysis.ipynb
-Performs exploratory data analysis and creates visualizations using the cleaned dataset.
-README.md
-Project description, instructions, and summary.
+<li>Final-Cleaning.ipynb-Cleans the original dataset and creates the cleaned CSV file.
+<li>Final-Analysis.ipynb-Performs exploratory data analysis and creates visualizations using the cleaned dataset.
+<li>E-commerce_Sales_Analysis_Report.pdf-Final written report.
+<li>README.md
+
 
 The large CSV data files are excluded from this repository because they exceed GitHub upload limits.
 
