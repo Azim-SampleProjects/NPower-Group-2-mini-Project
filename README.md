@@ -153,6 +153,11 @@ Returns and cancellations needed to be separated from regular sales to avoid mis
 
 This project demonstrates the full data analysis workflow, including data cleaning, feature engineering, exploratory data analysis, and visualization.
 
-The analysis shows the importance of carefully cleaning transaction data before drawing business conclusions. By separating valid sales from cancellations, returns, stock adjustments, and zero-price records, the final analysis provides a more accurate view of customer behavior and sales performance.
+Due to the time constraints of the project, the data cleaning process was focused on preparing the dataset well enough to answer the required business questions accurately. The cleaning process addressed the most important issues, including duplicates, missing values, cancelled transactions, returns, stock adjustments, and zero-price records.
 
-This project also provides a strong foundation for building an interactive business dashboard using Plotly Dash.
+The analysis shows the importance of carefully reviewing transaction data before drawing business conclusions. By separating valid sales from cancellations, returns, stock adjustments, and non-sales records, the final analysis provides a more accurate view of customer behaviour and sales performance.
+
+An additional report, **E-Commerce Sales Analysis Report**, has been included as a PDF file in this repository. The report provides a written summary of the project, key business questions, analysis, visualizations, and conclusions.
+
+This project also provides a strong foundation for building an interactive business dashboard using Plotly Dash or Power BI.
+
